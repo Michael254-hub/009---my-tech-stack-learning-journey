@@ -2,7 +2,7 @@
 
 Hello **Tech Enthusiast**,
 
-Welcome to my public learning journal, where I document my learning progress! This repository is organized by language and concept. It is designed for both beginners looking for structured guidance and for experts seeking insights from another learner’s perspective. Documenting my tech stack learning journey on GitHub helps reinforce my knowledge and provides a valuable resource for other learners.
+Welcome to my public learning journal, where I document my learning progress! This repository is organized by language and concept. It is designed for both beginners looking for structured guidance and for experts seeking insights from another learner’s/expert's perspective. Documenting my tech stack learning journey on GitHub helps reinforce my knowledge and provides a valuable resource for other learners.
 
 ---
 
